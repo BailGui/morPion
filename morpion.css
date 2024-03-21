@@ -1,5 +1,5 @@
 body {
-    background-image: url(https://cdn.wallpapersafari.com/22/29/jGnpOT.jpg);
+    background-image: url(https://i.pinimg.com/originals/d9/1b/7c/d91b7ca980e03b097c555839fcab26ad.jpg);
     background-size: cover;
     text-align: center;
   }
@@ -9,7 +9,7 @@ body {
     margin: 0 auto;
     padding: 10px;
     border: 2px solid black;
-    border-radius: 5px;
+    border-radius: 10px;
   }
   
   #Jeu div {
@@ -24,6 +24,8 @@ body {
     font-size: 50px;
     margin: 5px;
     float:left;
+    border: 2px solid black;
+    border-radius: 5px;
   }
   
   #StatutJeu {
@@ -32,9 +34,15 @@ body {
     padding: 10px 0;
     text-align: center;
     font-size: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
   
   h1{
+    padding-top: 2%;
     padding-bottom: 6%;
-    color: rgba(70, 131, 180, 0.979);
+    color:  rgba(255, 3, 3, 0.685);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
   }
